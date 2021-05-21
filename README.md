@@ -1,4 +1,4 @@
-# awesome
+# Awesome
 
 ## Quike Start
 - [start-demo webpack项目模板](https://github.com/eva-engine/start-demo)
