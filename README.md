@@ -1,6 +1,10 @@
 # Awesome
 
 ## Quike Start
+- [Official Website 官网](https://eva.js.org/)
+- [Demos](https://eva.js.org/playground)
+- [Tutorials](https://eva.js.org/#/tutorials/quickstart)
+- [入门教程](https://eva-engine.gitee.io/#/tutorials/quickstart)
 - [start-demo webpack项目模板](https://github.com/eva-engine/start-demo)
 - [start-demo-with-cdn 基于CDN的项目模板](https://github.com/eva-engine/start-demo-with-cdn)
 
@@ -11,5 +15,4 @@
 ## Projects
 - [Watermelion 合成大西瓜](https://github.com/eva-engine/wantermelon)
 - [tower-defense-demo 塔防游戏](https://github.com/eva-engine/tower-defense-demo)
-
-
+- [小恐龙快跑(Dino Run)](https://github.com/codetyphon/eva-dino-run/)
