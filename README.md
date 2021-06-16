@@ -13,7 +13,7 @@
 
 ## Projects
 - [Watermelion 合成大西瓜](https://github.com/eva-engine/wantermelon) | [Play >](https://eva.js.org/wantermelon/)
-- [tower-defense-demo 塔防游戏](https://github.com/eva-engine/tower-defense-demo) | [Play](https://eva.js.org/tower-defense-demo/)
+- [tower-defense-demo 塔防游戏](https://github.com/eva-engine/tower-defense-demo) | [Play >](https://eva.js.org/tower-defense-demo/)
 - [Dino Run 小恐龙快跑](https://github.com/codetyphon/eva-dino-run/) | [Play >](https://codetyphon.github.io/eva-dino-run/)
 - [Space War 太空大战](https://github.com/codetyphon/eva-space-war) | [Play >](https://codetyphon.github.io/eva-space-war/)
 
