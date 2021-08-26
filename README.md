@@ -19,5 +19,8 @@
 - [Flappy Bird](https://github.com/lceric/eva-flappy-bird) | [Play >](https://lceric.github.io/eva-flappy-bird/index.html)
 - [题目+剧情H5游戏 2021 CIGA GameJam 作品](https://github.com/fanmingfei/ISEEU/) | [Play >](https://fanmingfei.github.io/ISEEU/)
 
+## Plugins
+- [eva-plugin-joystick 虚拟摇杆](https://github.com/fanmingfei/eva-plugin-joystick)
+
 ## Tools
 - [docsify-evajs Show Eva.js demo in markdown](https://github.com/codetyphon/docsify-evajs)
