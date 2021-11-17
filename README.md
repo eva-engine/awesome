@@ -12,6 +12,7 @@
 - [不得了啦！支撑双11五亿玩家的互动游戏引擎开源啦！](https://juejin.cn/post/6955366725420318734)
 
 ## Projects
+- [FlashArrowMan 闪箭侠](https://github.com/eva-engine/FlashArrowMan) | [Play >](https://eva.js.org/FlashArrowMan/)
 - [Watermelion 合成大西瓜](https://github.com/eva-engine/watermelon) | [Play >](https://eva.js.org/watermelon/)
 - [tower-defense-demo 塔防游戏](https://github.com/eva-engine/tower-defense-demo) | [Play >](https://eva.js.org/tower-defense-demo/)
 - [Dino Run 小恐龙快跑](https://github.com/codetyphon/eva-dino-run/) | [Play >](https://codetyphon.github.io/eva-dino-run/)
