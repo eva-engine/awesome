@@ -22,6 +22,7 @@
 
 ## Plugins
 - [eva-plugin-joystick 虚拟摇杆](https://github.com/fanmingfei/eva-plugin-joystick)
+- [eva-plugin-live2d Live2D Plugin](https://github.com/fanmingfei/eva-plugin-renderer-live2d)
 
 ## Tools
 - [docsify-evajs Show Eva.js demo in markdown](https://github.com/codetyphon/docsify-evajs)
