@@ -19,6 +19,8 @@
 - [Space War 太空大战](https://github.com/codetyphon/eva-space-war) | [Play >](https://codetyphon.github.io/eva-space-war/)
 - [Flappy Bird](https://github.com/lceric/eva-flappy-bird) | [Play >](https://lceric.github.io/eva-flappy-bird/index.html)
 - [题目+剧情H5游戏 2021 CIGA GameJam 作品](https://github.com/fanmingfei/ISEEU/) | [Play >](https://fanmingfei.github.io/ISEEU/)
+- [打地鼠](https://github.com/codetyphon/eva-Whac-A-Mole) | [Play >](https://codetyphon.github.io/eva-Whac-A-Mole/)
+- [波浪效果](https://github.com/codetyphon/eva-wave) | [Play >](https://codetyphon.github.io/eva-wave/)
 
 ## Plugins
 - [eva-plugin-joystick 虚拟摇杆](https://github.com/fanmingfei/eva-plugin-joystick)
