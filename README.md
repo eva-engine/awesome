@@ -21,6 +21,7 @@
 - [题目+剧情H5游戏 2021 CIGA GameJam 作品](https://github.com/fanmingfei/ISEEU/) | [Play >](https://fanmingfei.github.io/ISEEU/)
 - [打地鼠](https://github.com/codetyphon/eva-Whac-A-Mole) | [Play >](https://codetyphon.github.io/eva-Whac-A-Mole/)
 - [波浪效果](https://github.com/codetyphon/eva-wave) | [Play >](https://codetyphon.github.io/eva-wave/)
+- [Cramped Room Of Death](https://github.com/SLI97/eva-cramped-room-of-death) | [Play >](https://sli97.github.io/eva-cramped-room-of-death//)
 
 ## Plugins
 - [eva-plugin-joystick 虚拟摇杆](https://github.com/fanmingfei/eva-plugin-joystick)
