@@ -1,6 +1,7 @@
 # Awesome
 
 ## Quike Start
+- [中文官网](https://eva-engine.gitee.io/)
 - [Official Website 官网](https://eva.js.org/)
 - [Demos](https://eva.js.org/playground)
 - [Tutorials](https://eva.js.org/#/tutorials/quickstart)
