@@ -14,6 +14,7 @@
 
 ## Articles
 - [不得了啦！支撑双11五亿玩家的互动游戏引擎开源啦！](https://juejin.cn/post/6955366725420318734)
+- [开发淘宝双11喵糖的 Eva.js v1.2 版本正式发布](https://www.yuque.com/eva/blog/sfra4q)
 
 ## Projects
 - [FlashArrowMan 闪箭侠](https://github.com/eva-engine/FlashArrowMan) | [Play >](https://eva.js.org/FlashArrowMan/)
