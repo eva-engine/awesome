@@ -16,6 +16,7 @@
 - [不得了啦！支撑双11五亿玩家的互动游戏引擎开源啦！](https://juejin.cn/post/6955366725420318734)
 - [开发淘宝双11喵糖的 Eva.js v1.2 版本正式发布](https://www.yuque.com/eva/blog/sfra4q)
 - [【游戏开发教学】Steam游戏《Cramped Room Of Death》复刻教程](https://www.bilibili.com/video/BV1Ci4y1y7id)
+- [一起来一趟 Eva.js 之旅吧！| Eva.js 实现 Flappy Bird](https://juejin.cn/post/7140470051445932062)
 
 ## Projects
 - [FlashArrowMan 闪箭侠](https://github.com/eva-engine/FlashArrowMan) | [Play >](https://eva.js.org/FlashArrowMan/)
